@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E84C656-F78D-4014-A669-5BDE3A6D87CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LeapProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E039A4891980BFF64A283E64413173CFE09EC2F</key>
+		<string>https://github.com/spchadinha/WorldBuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LeapProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E039A4891980BFF64A283E64413173CFE09EC2F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/spchadinha/WorldBuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E039A4891980BFF64A283E64413173CFE09EC2F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E039A4891980BFF64A283E64413173CFE09EC2F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LeapProjectGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
